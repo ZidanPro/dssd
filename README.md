@@ -29,3 +29,31 @@ _Follow the instructions below to run the gusti-basketball script on your server
    ```lua
    ensure gusti-basketball
    ```
+### Usage guide
+
+_gusti-basketball v.1.0.0 version uses commands not using items_
+
+* To spawn the basketball
+   ```lua
+   Use command [basketball]
+   ```
+* To pick up the ball
+   ```lua
+   Use the [E] key
+   ```
+* To play basketball in style
+   ```lua
+   Use the [U] key
+   ```
+* To shoot a basketball into the hoop
+   ```lua
+   Use the [R] key
+   ```
+* To dribble basketball
+   ```lua
+   Use the [G] key
+   ```
+* To get the basketball out of hand
+   ```lua
+   Use the [X] key
+   ```
