@@ -58,3 +58,20 @@ _gusti-basketball v.1.0.0 version uses commands not using items_
    ```lua
    Use the [X] key
    ```
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/ZidanPro/Template-README.svg?style=for-the-badge
+[contributors-url]: https://github.com/ZidanPro/Template-README/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ZidanPro/Template-README.svg?style=for-the-badge
+[forks-url]: https://github.com/ZidanPro/Template-README/network/members
+[stars-shield]: https://img.shields.io/github/stars/ZidanPro/Template-README.svg?style=for-the-badge
+[stars-url]: https://github.com/ZidanPro/Template-README/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ZidanPro/Template-README.svg?style=for-the-badge
+[issues-url]: https://github.com/ZidanPro/Template-README/issues
+[license-shield]: https://img.shields.io/github/license/ZidanPro/Template-README.svg?style=for-the-badge
+[license-url]: https://github.com/ZidanPro/Template-README/blob/master/LICENSE.txt
