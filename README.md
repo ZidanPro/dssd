@@ -58,12 +58,12 @@ _gusti-basketball v.1.0.0 version uses commands not using items_
    ```lua
    Use the [X] key
    ```
+   
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/ZidanPro/Template-README.svg?style=for-the-badge
 [contributors-url]: https://github.com/ZidanPro/Template-README/graphs/contributors
