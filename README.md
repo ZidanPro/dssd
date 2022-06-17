@@ -29,6 +29,7 @@ _Follow the instructions below to run the gusti-basketball script on your server
    ```lua
    ensure gusti-basketball
    ```
+_Open `config.lua` to see the configuration_
 ### Usage guide
 
 _gusti-basketball v.1.0.0 version uses commands not using items_
